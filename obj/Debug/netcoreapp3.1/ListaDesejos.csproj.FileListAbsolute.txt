@@ -1,0 +1,13 @@
+C:\Users\HOME\Documents\ListaDesejos\bin\Debug\netcoreapp3.1\ListaDesejos.exe
+C:\Users\HOME\Documents\ListaDesejos\bin\Debug\netcoreapp3.1\ListaDesejos.deps.json
+C:\Users\HOME\Documents\ListaDesejos\bin\Debug\netcoreapp3.1\ListaDesejos.runtimeconfig.json
+C:\Users\HOME\Documents\ListaDesejos\bin\Debug\netcoreapp3.1\ListaDesejos.runtimeconfig.dev.json
+C:\Users\HOME\Documents\ListaDesejos\bin\Debug\netcoreapp3.1\ListaDesejos.dll
+C:\Users\HOME\Documents\ListaDesejos\bin\Debug\netcoreapp3.1\ListaDesejos.pdb
+C:\Users\HOME\Documents\ListaDesejos\obj\Debug\netcoreapp3.1\ListaDesejos.csprojAssemblyReference.cache
+C:\Users\HOME\Documents\ListaDesejos\obj\Debug\netcoreapp3.1\ListaDesejos.AssemblyInfoInputs.cache
+C:\Users\HOME\Documents\ListaDesejos\obj\Debug\netcoreapp3.1\ListaDesejos.AssemblyInfo.cs
+C:\Users\HOME\Documents\ListaDesejos\obj\Debug\netcoreapp3.1\ListaDesejos.csproj.CoreCompileInputs.cache
+C:\Users\HOME\Documents\ListaDesejos\obj\Debug\netcoreapp3.1\ListaDesejos.dll
+C:\Users\HOME\Documents\ListaDesejos\obj\Debug\netcoreapp3.1\ListaDesejos.pdb
+C:\Users\HOME\Documents\ListaDesejos\obj\Debug\netcoreapp3.1\ListaDesejos.genruntimeconfig.cache
